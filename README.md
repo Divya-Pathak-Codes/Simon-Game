@@ -31,4 +31,6 @@ An interactive Simon Game built using HTML, CSS, and JavaScript to practice DOM 
 -Managing user interactions.
 -Connecting HTML, CSS, and JavaScript.
 
+## Live Demo
+[Play Simon Game](https://divya-pathak-codes.github.io/Simon-Game/)
 ## If you like the project, feel free to explore the code and try the game
